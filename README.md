@@ -19,7 +19,7 @@ This is a visually appealing and user-friendly calculator built using HTML, CSS,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/attractive-calculator.git
+   https://github.com/Ermiyaslishan/Atttractive-calculator-with-Html-Css-and-Js-.git
    ```
 
 2. Navigate to the project folder:
